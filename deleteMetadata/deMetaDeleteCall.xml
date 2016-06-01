@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xb:digital_entity_call xmlns:xb="http://com/exlibris/digitool/repository/api/xmlbeans">
+    <xb:digital_entity>
+        <pid>#####</pid>
+        <mds cmd="delete_and_insert_delta">
+            <md cmd="delete">
+            <mid>@@@@@</mid>
+            </md>
+        </mds>
+    </xb:digital_entity>
+    <command>update</command>
+</xb:digital_entity_call>
