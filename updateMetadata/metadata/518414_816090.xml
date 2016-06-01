@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?><mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" version="3.6">
+<mods:titleInfo usage="primary">
+<mods:title>Harold Goldblatt, actor, writer. Member of the Jewish community in Belfast</mods:title>
+</mods:titleInfo>
+<mods:name authority="naf" type="personal" usage="primary">
+<mods:namePart type="family">Hanvey</mods:namePart>
+<mods:namePart type="given">Bobbie</mods:namePart>
+<mods:namePart type="date">1945-</mods:namePart>
+<mods:displayForm>Hanvey, Bobbie, 1945-</mods:displayForm>
+<mods:role>
+<mods:roleTerm type="text" authority="marcrelator">Photographer</mods:roleTerm>
+<mods:roleTerm type="code" authority="marcrelator">pht</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:name authority="naf" type="corporate">
+<mods:namePart>Boston College</mods:namePart>
+<mods:namePart>John J. Burns Library</mods:namePart>
+<mods:displayForm>Boston College. John J. Burns Library</mods:displayForm>
+<mods:role>
+<mods:roleTerm type="text" authority="marcrelator">Owner</mods:roleTerm>
+<mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:typeOfResource>still image</mods:typeOfResource>
+<mods:genre usage="primary" authority="gmgpc" type="work type">Photographs</mods:genre>
+<mods:genre authority="aat" type="work type">black-and-white negatives</mods:genre>
+<mods:originInfo>
+<mods:dateCreated>1970s</mods:dateCreated>
+<mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1970</mods:dateCreated>
+<mods:dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1979</mods:dateCreated>
+<mods:issuance>monographic</mods:issuance>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">zxx</mods:languageTerm>
+<mods:languageTerm type="text" authority="iso639-2b">Not applicable</mods:languageTerm>
+</mods:language>
+<mods:physicalDescription>
+<mods:form authority="marcform">electronic</mods:form>
+<mods:internetMediaType>image/jp2</mods:internetMediaType>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:internetMediaType>image/tif</mods:internetMediaType>
+<mods:extent>5 black-and-white negatives (35mm)</mods:extent>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+</mods:physicalDescription>
+<mods:note>Title based on entry in photographer's inventory.</mods:note>
+<mods:subject authority="lcsh">
+<mods:name type="personal">
+<mods:namePart type="family">Goldblatt</mods:namePart>
+<mods:namePart type="given">Harold</mods:namePart>
+<mods:displayForm>Goldblatt, Harold</mods:displayForm>
+</mods:name>
+<mods:genre>Photographs</mods:genre>
+</mods:subject>
+<mods:subject authority="lcsh">
+<mods:occupation>Actors</mods:occupation>
+<mods:geographic>Northern Ireland</mods:geographic>
+<mods:genre>Portraits</mods:genre>
+</mods:subject>
+<mods:subject authority="lcsh">
+<mods:topic>Portrait photography</mods:topic>
+<mods:geographic>Northern Ireland</mods:geographic>
+</mods:subject>
+<mods:relatedItem type="host">		<mods:titleInfo>			<mods:title>Bobbie Hanvey Photographic Archives</mods:title>		</mods:titleInfo>		<mods:part>			<mods:detail level="1" type="series">				<mods:caption>Series</mods:caption>				<mods:number>4</mods:number>				<mods:title>Writers, Poets, Journalists and Artists</mods:title>			</mods:detail>			<mods:detail level="2" type="subseries">				<mods:caption>Subseries</mods:caption>				<mods:number>A</mods:number>				<mods:title>Original Accession 2001, 1970s-1990s</mods:title>			</mods:detail>			<mods:detail level="3" type="subseries">				<mods:caption>Item</mods:caption>				<mods:number>3</mods:number>			</mods:detail>		</mods:part>	</mods:relatedItem>
+<mods:identifier type="local-other">(Hanvey)04A003</mods:identifier>
+<mods:accessCondition type="use and reproduction">The Bobbie Hanvey Photographic Archives are licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. Citations should credit the Bobbie Hanvey Photographic Archives, John J. Burns Library, Boston College. Requests for high quality reproductions and permissions beyond the scope of this license should be submitted in writing to the Burns Librarian via e-mail (burnsref@bc.edu) or via mail (John J. Burns Library, Boston College, 140 Commonwealth Avenue, Chestnut Hill, MA 02467-3801).</mods:accessCondition>
+<mods:recordInfo>
+<mods:recordContentSource authority="marcorg">MChB</mods:recordContentSource>
+<mods:recordOrigin>OAI-PMH request</mods:recordOrigin>
+<mods:languageOfCataloging>			<mods:languageTerm type="text">English</mods:languageTerm>			<mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>		</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:location><mods:physicalLocation>Boston College University Libraries</mods:physicalLocation><mods:url access="object in context" usage="primary display">http://dcollections.bc.edu/R/?func=dbin-jump-full&amp;object_id=109565&amp;local_base=GEN01-BCD01</mods:url><mods:url access="preview">http://dcollections.bc.edu/webclient/DeliveryManager?pid=505891</mods:url></mods:location><mods:identifier type="uri">http://dcollections.bc.edu/webclient/DeliveryManager?pid=109565&amp;custom_att_2=simple_viewer&amp;local_base=GEN01-BCD01</mods:identifier><mods:identifier type="hdl">http://hdl.handle.net/2345/811</mods:identifier></mods:mods> 
